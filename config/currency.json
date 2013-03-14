@@ -1944,6 +1944,20 @@
     "thousands_separator": ",",
     "iso_numeric": "949"
   },
+  "trl": {
+    "priority": 100,
+    "iso_code": "TRL",
+    "name": "Turkish Lira",
+    "symbol": "TL",
+    "alternate_symbols": [],
+    "subunit": "kuruş",
+    "subunit_to_unit": 100,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "949"
+  },
   "ttd": {
     "priority": 100,
     "iso_code": "TTD",
