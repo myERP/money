@@ -2317,9 +2317,9 @@
   "vef": {
     "priority": 100,
     "iso_code": "VEF",
-    "name": "Venezuelan Bolívar",
-    "symbol": "Bs",
-    "alternate_symbols": ["Bs.F"],
+    "name": "Venezuelan Bolívar Fuerte",
+    "symbol": "Bs F",
+    "alternate_symbols": ["Bs.F", "Bs"],
     "subunit": "Céntimo",
     "subunit_to_unit": 100,
     "symbol_first": true,
@@ -2328,6 +2328,20 @@
     "thousands_separator": ".",
     "iso_numeric": "937",
     "smallest_denomination": 1
+  },
+  "veb": {
+    "priority": 100,
+    "iso_code": "VEB",
+    "name": "Venezuelan Bolívar",
+    "symbol": "Bs",
+    "alternate_symbols": [],
+    "subunit": "Céntimo",
+    "subunit_to_unit": 100,
+    "symbol_first": true,
+    "html_entity": "",
+    "decimal_mark": ",",
+    "thousands_separator": ".",
+    "iso_numeric": "937"
   },
   "vnd": {
     "priority": 100,
