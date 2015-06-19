@@ -87,7 +87,7 @@
     "priority": 100,
     "iso_code": "ARS",
     "name": "Argentine Peso",
-    "symbol": "$m/n",
+    "symbol": "AR$",
     "alternate_symbols": ["$", "m$n"],
     "subunit": "Centavo",
     "subunit_to_unit": 100,
