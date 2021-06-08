@@ -187,7 +187,7 @@
     "priority": 100,
     "iso_code": "BDT",
     "name": "Bangladeshi Taka",
-    "symbol": "৳",
+    "symbol": "Tk",
     "alternate_symbols": ["Tk"],
     "subunit": "Paisa",
     "subunit_to_unit": 100,
